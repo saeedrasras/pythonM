@@ -3,7 +3,7 @@ from reports import LogAnalyzer
 from cli import run_report, interactive_menu
 
 def main():
-    log_file = "bank_server.log"
+    log_file = "server.txt"
     report_number = None
     username = None
     output_file = None
